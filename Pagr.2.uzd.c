@@ -1,7 +1,4 @@
-//LSP numeris 2213720
-//gabriele.drungilaite@mif.stud.vu.lt
 //Uzduoties nr. - 2
-//Varianto nr. - 6
 //Salyga - Ivesti sveika skaiciu N. Ivesti N*N sveiku skaiciu, kurie sudarys lentele. Sioje lenteleje kiekvienoje
 //eiluteje rasti minimalu skaiciu, o po to ju maksimuma. Atspausdinti rasto skaiciaus koordinates (eilute, stulpelis) ir pati skaiciu.
 
